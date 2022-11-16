@@ -3,3 +3,7 @@
 /shop_address_29_result_11_16_2022.csv
 /shop_address_29_result_11_16_2022.json
 /venv
+/.gitignore
+/telegram_token.py
+/__pycache__
+
